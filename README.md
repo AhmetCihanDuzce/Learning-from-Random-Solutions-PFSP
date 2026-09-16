@@ -41,7 +41,3 @@ Public package names, documentation, code identifiers, and provenance labels use
 ## Public deposition
 
 This package is prepared for upload to a DOI-bearing repository such as Zenodo. After the repository record is created, the assigned persistent DOI/URL can be inserted into the manuscript Data Availability Statement and the corresponding reviewer response before final publication.
-
-## Integrity
-
-Use `SHA256SUMS.txt` to verify the top-level files after transfer. Nested computational archives also contain updated integrity manifests.
