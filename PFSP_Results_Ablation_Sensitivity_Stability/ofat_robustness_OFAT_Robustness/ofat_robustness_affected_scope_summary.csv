@@ -1,0 +1,5 @@
+Config,Scope,N,MeanDeltaPct,MedianDeltaPct,W,T,L
+q_2,"Search-guided families only (FRB4-p1, INEH-inspired)",112,-0.20169931008290728,-0.11189863440647507,31,4,77
+q_6,"Search-guided families only (FRB4-p1, INEH-inspired)",112,0.09480039475132397,0.04738775291342076,65,8,39
+Poor_05,Contrast only,140,-0.011958696149876116,0.0,43,48,49
+Poor_20,Contrast only,140,-0.009623426864166083,0.0,52,44,44

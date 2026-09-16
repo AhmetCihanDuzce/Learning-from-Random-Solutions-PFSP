@@ -1,0 +1,69 @@
+{
+  "counts": {
+    "raw": 15400,
+    "pool": 140,
+    "audit": 1400,
+    "expected_raw": 15400,
+    "expected_pool": 140,
+    "expected_audit": 1400
+  },
+  "count_pass": true,
+  "duplicate_counts": {
+    "raw": 0,
+    "pool": 0,
+    "audit": 0
+  },
+  "rep_coverage": {
+    "missing": [],
+    "unexpected": []
+  },
+  "problem_count": 28,
+  "bad_raw_rows_per_rep": [],
+  "config_counts": {
+    "Baseline": 1400,
+    "PRules_2n": 1400,
+    "PRules_4n": 1400,
+    "Regions_2": 1400,
+    "Regions_8": 1400,
+    "q_2": 1400,
+    "q_6": 1400,
+    "Elite_025": 1400,
+    "Elite_10": 1400,
+    "Poor_05": 1400,
+    "Poor_20": 1400
+  },
+  "bad_config_counts": {},
+  "metadata_mismatches": 0,
+  "metadata_examples": [],
+  "baseline_regression": {
+    "pass": 1400,
+    "checked": 1400,
+    "mismatches": 0
+  },
+  "seed_pool_mismatches": [],
+  "ablation_baseline_crosscheck": {
+    "checked": 1400,
+    "matches": 1400,
+    "mismatches": 0,
+    "examples": []
+  },
+  "poor_fraction_elite_invariance": {
+    "checked": 1400,
+    "matches": 1400,
+    "mismatches": 0,
+    "examples": []
+  },
+  "independent_solution_check": {
+    "checked": 15400,
+    "invalid_permutations": 0,
+    "cmax_mismatches": 0,
+    "perm_examples": [],
+    "cmax_examples": []
+  },
+  "hashes": {
+    "ofat_robustness_ofat_raw.csv": "9d5ed08eccccb7170affb96fc8c31c87e284aee54e392ac2d29fbf132bd7e254",
+    "ofat_robustness_pool_audit.csv": "9bc123b3f20c044f1933b6ca6dee14e35791810803da7ebe07d2688853c21a77",
+    "ofat_robustness_baseline_regression_audit.csv": "419d0c9b54bd0500dbe5726d7800d43e98c7952107a39e1a474de1c48d513446"
+  },
+  "master_green": true
+}
