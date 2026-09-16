@@ -37,7 +37,3 @@ The five-target comparator-transfer analysis is exploratory and is kept separate
 ## Public-facing nomenclature
 
 Public package names, documentation, code identifiers, and provenance labels use analysis-specific terminology such as ablation, weight sensitivity, OFAT robustness, structural stability, external comparison, and exploratory transfer. This terminology corresponds directly to the scientific analyses described in the manuscript and Supplementary Material.
-
-## Public deposition
-
-This package is prepared for upload to a DOI-bearing repository such as Zenodo. After the repository record is created, the assigned persistent DOI/URL can be inserted into the manuscript Data Availability Statement and the corresponding reviewer response before final publication.
