@@ -16,8 +16,8 @@ The native external-comparator panel and the exploratory transfer study answer d
 - `PFSP_Supplementary_Tables_FINAL.xlsx` — machine-readable reader-facing versions of Tables S1-S8 cited in the manuscript.
 - `PFSP_AllProblems_AllResults.xlsx` — consolidated manuscript-facing problem-level and aggregate results.
 - `PFSP_ComparatorMining_Exploratory_Transfer_Tables.xlsx` — reader-facing target-selection rationale, selected-interface results, strict H=10 audit, paired summaries, and development-lineage tables for the five-target QIG/Q-NEH transfer analysis.
-- `PFSP_Code_Robustness_Stability.zip` — code for P/R ablation, weight sensitivity, OFAT robustness, and five-pool structural stability. (Structures are in PFSP_Results_Ablation_Sensitivity_Stability_Structures folder.)
-- `PFSP_Results_Robustness_Stability.zip` — raw/master results, structural archives, QA evidence, and publication summaries.
+- `PFSP_Code_Robustness_Stability.zip` — code for P/R ablation, weight sensitivity, OFAT robustness, and five-pool structural stability.
+- `PFSP_Results_Robustness_Stability.zip` — raw/master results, structural archives, QA evidence, and publication summaries. (Structures are in PFSP_Results_Ablation_Sensitivity_Stability_Structures folder.)
 - `PFSP_External_Comparator_Results.zip` — code and outputs for the 28-problem Q-NEH/QIG native external-comparator panel and common local-search analysis.
 - `PFSP_Runtime_Results.zip` — runtime scripts, wall/CPU logs, environment metadata, run manifest, and historical audit.
 - `PFSP_Pure_Python_Single_Instance.zip` — portable single-instance reference implementation and validation aid. (The run_pfsp_single.py Python code, located in this zip file, performs the quality assurance (QA) checks for the solutions obtained for the problems presented in the article using a specified initial random seed.)
